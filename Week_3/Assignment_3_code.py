@@ -1,3 +1,4 @@
+# 將Assignment_2_code 給gpt修改
 import math, random
 import numpy as np
 import torch
